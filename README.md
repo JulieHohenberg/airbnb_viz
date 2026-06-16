@@ -1,1 +1,1 @@
-# airbnb_viz
+# Boston Airbnb Streamit Dashboard (for Data Viz class)
